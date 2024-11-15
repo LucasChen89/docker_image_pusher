@@ -8,3 +8,4 @@ postgres:15.9
 postgres:latest
 postgres:15.9-alpine
 alpine:3.14
+mattermost/platform:9.3.0
