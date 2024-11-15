@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 postgres:15.9
 postgres:15.9-alpine
+alpine:3.14
